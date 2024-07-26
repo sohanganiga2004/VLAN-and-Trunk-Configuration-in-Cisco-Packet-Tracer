@@ -1,4 +1,4 @@
-# VLAN-and-Trunk-Configuration-in-Cisco-Packet-Tracer
+# INTERVLAN-and-Trunk-Configuration-in-Cisco-Packet-Tracer
 
 **Configuring VLAN and Trunk in Cisco Packet Tracer Using 2 Switches and 1 Router**
 
